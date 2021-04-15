@@ -5,7 +5,9 @@ Some security news I am interested in && have not done
 ## v8
 https://github.com/r4j0x00/exploits/tree/master/CVE-2020-16040  
 
-https://mp.weixin.qq.com/s/O81Kw-ujcbjY_1S6dFKpxQ  
+https://mp.weixin.qq.com/s/O81Kw-ujcbjY_1S6dFKpxQ    
+https://mp.weixin.qq.com/s/bYhQlblYxQRHqTb3zOrTew  
+
 
 
 https://starlabs.sg/blog/2021/04/you-talking-to-me/  
